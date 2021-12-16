@@ -1,0 +1,13 @@
+body head {
+  position: relative;
+}
+body head .imgNav {
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+body head .imgNav img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
